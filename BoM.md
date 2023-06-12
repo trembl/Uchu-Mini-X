@@ -16,7 +16,7 @@
 | 2.  | Taster (x2)            |                        |                        |                        |                        |
 | 3.  | 9V Battery Clip        |                        |                        |                        |                        |
 | 4.  | Earphone               |                        |                        |                        |                        |
-| 5.  | Red LED, 5mm           |                        |                        |                        |                        |
+| 5.  | Red LED, 5mm           |                        |[OSR5JA5E34B](https://akizukidenshi.com/catalog/g/gI-12605/) | Through-Hole | ¥10 |
 | 6.  | Long Wires             |                        |                        |                        |                        |
 | 7.  | Short Wires            |                        |                        |                        |                        |
 | 8.  | Pin Headers            |                        |                        |                        |                        |
@@ -24,7 +24,7 @@
 | 10. | Very Long Wires        |                        |                        |                        |                        |
 | 11. | MW/AM Module           |                        |                        |                        |                        |
 | 12. | Diode (Germanium), AA112, AA118, 1N60, AA113 (60V / 25mA), 30V 35mA | | Replace with Schottky [BAT85S-TAP](https://www.digikey.jp/en/products/detail/vishay-general-semiconductor-diodes-division/BAT85S-TAP/3104127) | Through-Hole | ¥56 |
-| 13. | Capacitor 6.8nF (x2)   |                        |                        |                        |                        |
+| 13. | Capacitor 6.8nF (x2)   | | [６８００ｐＦ５０Ｖ　Ｘ７Ｒ　５ｍｍ](https://akizukidenshi.com/catalog/g/gP-08137/) | Through-Hole, Radial (x10) | ¥100 |
 | 14. | Condensor 100µF, bi-polar, axial | | [107BPA016M](https://www.digikey.jp/en/products/detail/cornell-dubilier-illinois-capacitor/107BPA016M/5410731) | Through-Hole, Axial | ¥198 |
 | 15. | Condensor 10µF, bi-polar, axial | | [106BPA050M](https://www.digikey.jp/en/products/detail/cornell-dubilier-illinois-capacitor/106BPA050M/5410614) | Through-Hole, Axial | ¥150 |
 | 16. | Resistor 470Ω (x2) | | [1/2W 470Ω](https://akizukidenshi.com/catalog/g/gR-07814/) | Through-Hole, Axial (x100) | ¥100 |
@@ -50,7 +50,6 @@
 | Diode (Germanium), AA112, AA118, 1N60, AA113 (60V / 25mA), 30V 35mA | | Replace with Schottky BAT85 | [BAT85S-TAP](https://www.digikey.jp/en/products/detail/vishay-general-semiconductor-diodes-division/BAT85S-TAP/3104127) | Through-Hole | ¥56 |
 | Rectifier 1N4001, 1N4004, 1N4007 |     | [1N4007-T](https://www.digikey.jp/ja/products/detail/diodes-incorporated/1N4007-T/76454) | Through-Hole | ¥29 |
 | Diode (Silizium Diode) | BA147, 1N4148, 1N4148 | | [1N4148](https://www.digikey.jp/en/products/detail/onsemi/1N4148/458603) | Through-Hole | ¥15 |
-| Red LED, 5mm | |[OSR5JA5E34B](https://akizukidenshi.com/catalog/g/gI-12605/) | Through-Hole | ¥10 |
 | IR LED, 5mm, blue tinted | | [](https://akizukidenshi.com/catalog/g/gI-13204/) | Through-Hole | ¥20 |
 | Phototransistor, 5mm, clear, BPW40| | [WP7113P3C](https://www.digikey.jp/en/products/detail/kingbright/WP7113P3C/7318904) | ¥60 |
 | IC Quad NAND Gate SN7403N oder TL7403N | 5V vs 9V ??? |  |[SN74LS03NS]() |  |
