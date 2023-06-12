@@ -9,7 +9,7 @@
 | Earpiece, 8Ω           |                        |                        |                        |                        |
 | Measuring Instrument, 100μA / 1,2k |            |                        |                        |                        |
 
-## X1000 (I)
+## X1000 (Box I)
 | Nr  | Description            | Parts Number           | Alternative            | Package                | Unit Price             |
 | --- | ---------------------- | ---------------------- | ---------------------- | ---------------------- | ---------------------- |
 | 1.  | Chassis                |                        |                        |                        |                        |
@@ -31,6 +31,10 @@
 | 17. | Resistor 1㏀  | | [1/2W 1㏀ ](https://akizukidenshi.com/catalog/g/gR-07820/) | Through-Hole, Axial (x100) | ¥150 |
 | 18. | Resistor 5.6㏀  | | [1/4W 5.6㏀ ](https://akizukidenshi.com/catalog/g/gR-25562/) | Through-Hole, Axial (x100) | ¥100 |
 | 19. | Resistor 15㏀  | | [1/2W 15㏀ ](https://akizukidenshi.com/catalog/g/gR-07840/) | Through-Hole, Axial (x100) | ¥100 |
+| 20. | Resistor 33㏀  | | [1/2W 33㏀ ](https://akizukidenshi.com/catalog/g/gR-07812/) | Through-Hole, Axial (x100) | ¥100 |
+| 21. | Resistor 100㏀  | | [1/2W 100㏀ ](https://akizukidenshi.com/catalog/g/gR-07853/) | Through-Hole, Axial (x100) | ¥100 |
+| 22. | Resistor 220㏀  | | [1/2W 220㏀ ](https://akizukidenshi.com/catalog/g/gR-07858/) | Through-Hole, Axial (x100) | ¥100 |
+| 23. | Resistor 680㏀  | | [1/4W 680㏀ ](https://akizukidenshi.com/catalog/g/gR-25684/) | Through-Hole, Axial (x100) | ¥100 |
 
 
 
