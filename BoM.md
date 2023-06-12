@@ -3,7 +3,6 @@
 ## General
 | Description            | Parts Number          | Alternative             | Package                | Price                  |
 | ---------------------- | ---------------------- | ---------------------- | ---------------------- | ---------------------- |
-| Pin Header, 1x4, 2.54mm x 9 x 7??| | [Pin Header 1x4](https://akizukidenshi.com/catalog/g/gC-10099/) | ¥20 | 
 | Pin Header, 1x40, 2.54mm | | [](https://akizukidenshi.com/catalog/g/gC-00167/) | ¥35 |
 | Speaker, 50mm, 8Ω      |                        |                        |                        |                        |
 | Earpiece, 8Ω           |                        |                        |                        |                        |
@@ -19,8 +18,8 @@
 | 5.  | Red LED, 5mm           |                        |[OSR5JA5E34B](https://akizukidenshi.com/catalog/g/gI-12605/) | Through-Hole | ¥10 |
 | 6.  | Long Wires             |                        |                        |                        |                        |
 | 7.  | Short Wires            |                        |                        |                        |                        |
-| 8.  | Pin Headers            |                        |                        |                        |                        |
-| 9.  | NPN Transitor Module (x2) |                     |                        |                        |                        |
+| 8.  | Pin Headers 1x4, 2.54mm x 9 x 7??| | [Pin Header 1x4](https://akizukidenshi.com/catalog/g/gC-10099/) | Through-Hole | ¥20 | 
+| 9.  | NPN Transitor Module (x2), BC583C, BC238C, BC548C BJT 100mA 30V NPN | | [BC848BLT1G](https://www.digikey.jp/en/products/detail/onsemi/BC848BLT1G/918348)| SOT23-3 | | SMD | ¥21 |
 | 10. | Very Long Wires        |                        |                        |                        |                        |
 | 11. | MW/AM Module           |                        |                        |                        |                        |
 | 12. | Diode (Germanium), AA112, AA118, 1N60, AA113 (60V / 25mA), 30V 35mA | | Replace with Schottky [BAT85S-TAP](https://www.digikey.jp/en/products/detail/vishay-general-semiconductor-diodes-division/BAT85S-TAP/3104127) | Through-Hole | ¥56 |
@@ -45,7 +44,6 @@
 # X4000 (IV)
 | Description            | Parts Number          | Alternative             | Package                | Price                  |
 | ---------------------- | ---------------------- | ---------------------- | ---------------------- | ---------------------- |
-| Transistor NPN, BC583C, BC238C, BC548C BJT 100mA 30V NPN | | [BC848BLT1G](https://www.digikey.jp/en/products/detail/onsemi/BC848BLT1G/918348)| SOT23-3 |¥21 |
 | Transistor PNP, BC513B, BC308B, BC558B, BJT 100mA 30V PNP | | [BC858CLT3G](https://www.digikey.jp/en/products/detail/onsemi/BC858CLT3G/1476091)| SOT23-3 | ¥19 |
 | Diode (Germanium), AA112, AA118, 1N60, AA113 (60V / 25mA), 30V 35mA | | Replace with Schottky BAT85 | [BAT85S-TAP](https://www.digikey.jp/en/products/detail/vishay-general-semiconductor-diodes-division/BAT85S-TAP/3104127) | Through-Hole | ¥56 |
 | Rectifier 1N4001, 1N4004, 1N4007 |     | [1N4007-T](https://www.digikey.jp/ja/products/detail/diodes-incorporated/1N4007-T/76454) | Through-Hole | ¥29 |
