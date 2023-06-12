@@ -53,7 +53,7 @@
 | 11.1 | Condensor 330pF / 100V |                        |                        |                        |                        | |
 | 11.2 | Condensor 330nF / 63V |                        |                        |                        |                        | |
 | 11.3 | Resistor 10Ω |                        |                        |                        |                        | |
-| 11.4 | IC [TBA820](https://www.digikey.jp/en/products/detail/stmicroelectronics/TBA820M/634789?s=N4IgTCBcDaICoCECCAOMAGAsiAugXyA) | | [HiFi OP AMP NJM4580E](https://akizukidenshi.com/catalog/g/gI-14003/) | EMP8 | ¥30 |  |
+| 11.4 | IC [TBA820](https://www.digikey.jp/en/products/detail/stmicroelectronics/TBA820M/634789?s=N4IgTCBcDaICoCECCAOMAGAsiAugXyA) | [TBA820M](https://www.st.com/resource/en/datasheet/cd00000118.pdf) | [HiFi OP AMP NJM4580E](https://akizukidenshi.com/catalog/g/gI-14003/), [TBA820M](https://akizukidenshi.com/catalog/g/gI-17301/), [LM386](https://akizukidenshi.com/catalog/g/gI-14549/) | DIP-8 | ¥30 |  |
 | 11.5 | Module PCB |                        | |                        |                        | |
 
 | 12. | Speaker, 50mm, 8Ω      |                        |                        |                        |                        | |
@@ -86,3 +86,4 @@ Notes:
 - https://www.experimentierkasten-board.de/viewtopic.php?p=940
 - https://www.eevblog.com/forum/beginners/how-to-know-if-my-logic-ic-is-fried/
 - https://www.experimentierkasten-board.de/viewtopic.php?p=2389
+- https://www.electronics-tutorials.ws
