@@ -23,7 +23,7 @@
 | 9.  | NPN Transitor Module (x2) |                     |                        |                        |                        |
 | 10. | Very Long Wires        |                        |                        |                        |                        |
 | 11. | MW/AM Module           |                        |                        |                        |                        |
-| 12. | Diode (Germanium)      |                        |                        |                        |                        |
+| 12. | Diode (Germanium), AA112, AA118, 1N60, AA113 (60V / 25mA), 30V 35mA | | Replace with Schottky BAT85 | [BAT85S-TAP](https://www.digikey.jp/en/products/detail/vishay-general-semiconductor-diodes-division/BAT85S-TAP/3104127) | Through-Hole | ¥56 |
 | 13. | Capacitor 6.8nF (x2)   |                        |                        |                        |                        |
 | 14. | Condensor 100µF, bi-polar, axial | | [107BPA016M](https://www.digikey.jp/en/products/detail/cornell-dubilier-illinois-capacitor/107BPA016M/5410731) | Through-Hole, Axial | ¥198 |
 | 15. | Condensor 10µF, bi-polar, axial | | [106BPA050M](https://www.digikey.jp/en/products/detail/cornell-dubilier-illinois-capacitor/106BPA050M/5410614) | Through-Hole, Axial | ¥150 |
