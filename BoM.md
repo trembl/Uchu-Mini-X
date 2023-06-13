@@ -95,6 +95,8 @@ Notes:
 | | IR LED, 5mm, blue tinted | | [](https://akizukidenshi.com/catalog/g/gI-13204/) | Through-Hole | ¥20 |
 
 
+ NAND -> CD4011 (TC4011BP)?
+OP-AMP -> UA741 (oder TBA221, identisch)
 
 
 
