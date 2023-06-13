@@ -22,7 +22,7 @@
 | 11. | MW/AM Module           |                        |                        |                        |                        | |
 | 12. | Diode (Germanium), AA112, AA118, 1N60, AA113 (60V / 25mA), 30V 35mA | | Replace with Schottky [BAT85S-TAP](https://www.digikey.jp/en/products/detail/vishay-general-semiconductor-diodes-division/BAT85S-TAP/3104127) | Through-Hole | ¥56 | |
 | 13. | Capacitor 6.8nF (x2)   | | [６８００ｐＦ５０Ｖ　Ｘ７Ｒ　５ｍｍ](https://akizukidenshi.com/catalog/g/gP-08137/) | Through-Hole, Radial (x10) | ¥10 | ¥100 |
-| 14. | Condensor 100µF, bi-polar, axial | | [107BPA016M](https://www.digikey.jp/en/products/detail/cornell-dubilier-illinois-capacitor/107BPA016M/5410731) | Through-Hole, Axial | ¥198 | |
+| 14. | Capacitor 100µF, bi-polar, axial | | [107BPA016M](https://www.digikey.jp/en/products/detail/cornell-dubilier-illinois-capacitor/107BPA016M/5410731) | Through-Hole, Axial | ¥198 | |
 | 15. | Condensor 10µF, bi-polar, axial | | [106BPA050M](https://www.digikey.jp/en/products/detail/cornell-dubilier-illinois-capacitor/106BPA050M/5410614) | Through-Hole, Axial | ¥150 | |
 | 16. | Resistor 470Ω (x2) | | [1/2W 470Ω](https://akizukidenshi.com/catalog/g/gR-07814/) | Through-Hole, Axial (x100) | ¥1 | ¥100 |
 | 17. | Resistor 1㏀  | | [1/2W 1㏀ ](https://akizukidenshi.com/catalog/g/gR-07820/) | Through-Hole, Axial (x100) | ¥1.5 | ¥100 |
@@ -50,8 +50,8 @@
 | 9.  | Short Wires            |                        |                        |                        |                        | |
 | 10. | Pin Headers 1x4, 2.54mm x 9 x 7??| | [Pin Header 1x4](https://akizukidenshi.com/catalog/g/gC-10099/) | Through-Hole | ¥20 |  |
 | 11. | [AMP](https://www.rigert.com/ee-wiki/index.php/KOSMOS_Verstärker-Modul) Amplication Module ||||||
-| 11.1 | Condensor 330pF / 100V |                        |                        |                        |                        | |
-| 11.2 | Condensor 330nF / 63V |                        |                        |                        |                        | |
+| 11.1 | Capacitor 330pF / 100V |                        |                        |                        |                        | |
+| 11.2 | Capacitor 330nF / 63V |                        |                        |                        |                        | |
 | 11.3 | Resistor 10Ω |                        |                        |                        |                        | |
 | 11.4 | IC [TBA820](https://www.digikey.jp/en/products/detail/stmicroelectronics/TBA820M/634789?s=N4IgTCBcDaICoCECCAOMAGAsiAugXyA) | [TBA820M](https://www.st.com/resource/en/datasheet/cd00000118.pdf) | [HiFi OP AMP NJM4580E](https://akizukidenshi.com/catalog/g/gI-14003/), [TBA820M](https://akizukidenshi.com/catalog/g/gI-17301/), [LM386](https://akizukidenshi.com/catalog/g/gI-14549/) | DIP-8 | ¥30 |  |
 | 11.5 | Module PCB |                        | |                        |                        | |
@@ -62,6 +62,23 @@
 
 
 # X3000 (III)
+
+| Nr  | Description            | Parts Number           | Alternative            | Package                | Unit Price             |  Bulk Price            |
+| --- | ---------------------- | ---------------------- | ---------------------- | ---------------------- | ---------------------- | ---------------------- |
+| 12.  | UKW/FM Module         |                        |                        |                        |                        |                        |
+| 12.1  | BF256A, JFET N-Kanal |                        |                        | [BF256A](https://akizukidenshi.com/catalog/g/gI-09856/)| ¥20 |      |
+| 12.2  | [BB505B](https://www.box73.de/file_dl/bauelemente/BB505B.pdf) Varicap Diode, Varactor, V<sub>RM</sub>=30V, I<sub>F</sub>=20mA | | [BB170X](https://www.digikey.jp/en/products/detail/nxp-usa-inc/BB170X/4288914) | ¥60 | | |
+| 12.3  | Capacitor 56pF | | [56p50V](https://akizukidenshi.com/catalog/g/gP-08099/)| Through-Hole | ¥10  |  |
+
+| 12.4  | Capacitor 4.7nF, (=4700pF) | | [BF256A](https://akizukidenshi.com/catalog/g/gP-10336/)| Through-Hole | ¥10 | | 
+| 12.4  | Capacitor 4.7nF, (=4700pF) | | [1206B472K500CT](https://www.digikey.jp/en/products/detail/walsin-technology-corporation/1206B472K500CT/9355110))| SMD | ¥21 (¥8) | | 
+
+
+
+
+Notes:
+- https://www.rigert.com/ee-wiki/index.php/KOSMOS_UKW-Modul
+
 
 # X4000 (IV)
 | Description            | Parts Number          | Alternative             | Package                | Price                  |
@@ -74,11 +91,7 @@
 | IC Quad NAND Gate SN7403N oder TL7403N | 5V vs 9V ??? |  |[SN74LS03NS]() |  |
 
 
-AMP, https://www.rigert.com/ee-wiki/index.php/KOSMOS_Verstärker-Modul
-1 X 330pF / 100V (WIMA)
-2 X 330nF / 63V (WIMA MKS-4)
-10 Ohm
-IC TBA820
+
 
 
 Notes:
