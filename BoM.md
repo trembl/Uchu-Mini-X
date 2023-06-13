@@ -69,8 +69,8 @@
 | 12.1  | BF256A, JFET N-Kanal |                        |                        | [BF256A](https://akizukidenshi.com/catalog/g/gI-09856/)| ¥20 |      |
 | 12.2  | [BB505B](https://www.box73.de/file_dl/bauelemente/BB505B.pdf) Varicap Diode, Varactor, V<sub>RM</sub>=30V, I<sub>F</sub>=20mA | | [BB170X](https://www.digikey.jp/en/products/detail/nxp-usa-inc/BB170X/4288914) | ¥60 | | |
 | 12.3  | Capacitor 56pF | | [56p50V](https://akizukidenshi.com/catalog/g/gP-08099/)| Through-Hole | ¥10  |  |
-| 12.4  | Capacitor 4.7nF, (=4700pF) | | [BF256A](https://akizukidenshi.com/catalog/g/gP-10336/)| Through-Hole | ¥10 | | 
-| 12.4  | Capacitor 4.7nF, (=4700pF) | | [1206B472K500CT](https://www.digikey.jp/en/products/detail/walsin-technology-corporation/1206B472K500CT/9355110))| SMD | ¥21 (¥8) | | 
+| 12.4.A  | Capacitor 4.7nF, (=4700pF) | | [BF256A](https://akizukidenshi.com/catalog/g/gP-10336/)| Through-Hole | ¥10 | | 
+| 12.4.B | Capacitor 4.7nF, (=4700pF) | | [1206B472K500CT](https://www.digikey.jp/en/products/detail/walsin-technology-corporation/1206B472K500CT/9355110))| SMD | ¥21 (¥8) | | 
 | 12.5 | Module PCB |                        | |                        |                        | |
 
 
@@ -83,8 +83,8 @@ Notes:
 
 | Nr  | Description            | Parts Number           | Alternative            | Package                | Unit Price             |  Bulk Price            |
 | --- | ---------------------- | ---------------------- | ---------------------- | ---------------------- | ---------------------- | ---------------------- |
-| 11.  | IC Quad NAND Gate SN7403N, TL7403N | | [LME49740NA](https://akizukidenshi.com/catalog/g/gI-03685/) | DIP14 | ¥300 | |
-| 11.  | IC Quad NAND Gate SN7403N, TL7403N | | [NJM2747V](https://akizukidenshi.com/catalog/g/gI-04696/) 2.5 - 14V | SSOP14 |¥50 | |
+| 11.A  | IC Quad NAND Gate SN7403N, TL7403N | | [LME49740NA](https://akizukidenshi.com/catalog/g/gI-03685/) | DIP14 | ¥300 | |
+| 11.B  | IC Quad NAND Gate SN7403N, TL7403N | | [NJM2747V](https://akizukidenshi.com/catalog/g/gI-04696/) 2.5 - 14V | SSOP14 |¥50 | |
 | 12.  | IC [OP AMP Module](https://www.rigert.com/ee-wiki/index.php?title=KOSMOS_Operationsverstärker-Modul), [741](https://www.rigert.com/ee-wiki/index.php?title=741) | | | | | |
 | 12.1  | [741](https://www.rigert.com/ee-wiki/index.php?title=741), LM741 | | | [NJM741D](https://akizukidenshi.com/catalog/g/gI-12128/) | ¥40 | |
 | 12.2  | Module PCB | | | | | |
