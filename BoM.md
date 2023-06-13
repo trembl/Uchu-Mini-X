@@ -10,7 +10,9 @@
 | Nr  | Description            | Parts Number           | Alternative            | Package                | Unit Price             |  Bulk Price            |
 | --- | ---------------------- | ---------------------- | ---------------------- | ---------------------- | ---------------------- | ---------------------- |
 | 1.  | Chassis                |                        |                        |                        |                        | |
-| 2.  | Taster (x2)            |                        |                        |                        |                        | |
+| 2.  | Switch (x2)            |   |||||
+| 2.1  | SMD Switch (x2)         |  Replace with SMD Switch |||||
+| 2.1  | Module PCB         |  ???  |||||
 | 3.  | 9V Battery Clip        |                        |                        |                        |                        | |
 | 4.  | Earpiece, 8Ω           |                        |                        |                        |                        | |
 | 5.  | Red LED, 5mm           |                        |[OSR5JA5E34B](https://akizukidenshi.com/catalog/g/gI-12605/) | Through-Hole | ¥10 | |
