@@ -10,9 +10,9 @@
 | Nr  | Description            | Parts Number           | Alternative            | Package                | Unit Price             |  Bulk Price            |
 | --- | ---------------------- | ---------------------- | ---------------------- | ---------------------- | ---------------------- | ---------------------- |
 | 1.  | Chassis                |                        |                        |                        |                        | |
-| 2.  | Switch (x2)            |   |||||
-| 2.1  | SMD Switch (x2)         |  Replace with SMD Switch |||||
-| 2.1  | Module PCB         |  DIY  |||||
+| 2.  | Switch (x2)            | | ||||
+| 2.1  | SMD Switch (x2)       | | SMD Switch | | | |
+| 2.2  | Module PCB            | | PCB Design  Mill | | | |
 | 3.  | 9V Battery Clip        |                        |                        |                        |                        | |
 | 4.  | Earpiece, 8Ω           |                        |                        |                        |                        | |
 | 5.  | Red LED, 5mm           |                        |[OSR5JA5E34B](https://akizukidenshi.com/catalog/g/gI-12605/) | Through-Hole | ¥10 | |
@@ -51,12 +51,12 @@
 | 8.  | Long Wires             |                        |                        |                        |                        | |
 | 9.  | Short Wires            |                        |                        |                        |                        | |
 | 10. | Pin Headers 1x4, 2.54mm x 9 x 7??| | [Pin Header 1x4](https://akizukidenshi.com/catalog/g/gC-10099/) | Through-Hole | ¥20 |  |
-| 11. | [AMP](https://www.rigert.com/ee-wiki/index.php/KOSMOS_Verstärker-Modul) Amplication Module ||||||
-| 11.1 | Capacitor 330pF / 100V |                        |                        |                        |                        | |
-| 11.2 | Capacitor 330nF / 63V |                        |                        |                        |                        | |
-| 11.3 | Resistor 10Ω |                        |                        |                        |                        | |
+| 11. | [AMP](https://www.rigert.com/ee-wiki/index.php/KOSMOS_Verstärker-Modul) Amplication Module | | ↓ | | | |
+| 11.1 | Capacitor 330pF, 100V |                       |                        |                        |                        | |
+| 11.2 | Capacitor 330nF, 63V |                        |                        |                        |                        | |
+| 11.3 | Resistor 10Ω        |                        |                        |                        |                        | |
 | 11.4 | IC [TBA820](https://www.digikey.jp/en/products/detail/stmicroelectronics/TBA820M/634789?s=N4IgTCBcDaICoCECCAOMAGAsiAugXyA) | [TBA820M](https://www.st.com/resource/en/datasheet/cd00000118.pdf) | [HiFi OP AMP NJM4580E](https://akizukidenshi.com/catalog/g/gI-14003/), [TBA820M](https://akizukidenshi.com/catalog/g/gI-17301/), [LM386](https://akizukidenshi.com/catalog/g/gI-14549/) | DIP-8 | ¥30 |  |
-| 11.5 | Module PCB | DIY | PCB Design & Mill | | | |
+| 11.5 | Module PCB |  | PCB Design & Mill | | | |
 | 12. | Speaker, 50mm, 8Ω | | [Dynammic Speaker 50m 8Ω, 0.4W](https://akizukidenshi.com/catalog/g/gP-09013/) | | ¥180 | |
 
 
@@ -66,7 +66,7 @@
 
 | Nr  | Description            | Parts Number           | Alternative            | Package                | Unit Price             |  Bulk Price            |
 | --- | ---------------------- | ---------------------- | ---------------------- | ---------------------- | ---------------------- | ---------------------- |
-| 12.  | UKW/FM Module || ↓ ||||
+| 12.  | UKW/FM Module | | ↓ | | | |
 | 12.1  | BF256A, JFET N-Kanal | | [BF256A](https://akizukidenshi.com/catalog/g/gI-09856/)| TO-92 | ¥20    | ¥180 for 10 |
 | 12.2  | [BB505B](https://www.box73.de/file_dl/bauelemente/BB505B.pdf) Varicap Diode, Varactor, V<sub>RM</sub>=30V, I<sub>F</sub>=20mA | | [BB170X](https://www.digikey.jp/en/products/detail/nxp-usa-inc/BB170X/4288914) | ¥60 | | |
 | 12.3  | Capacitor 56pF | | [56p50V](https://akizukidenshi.com/catalog/g/gP-08099/)| Through-Hole | ¥10 | |
