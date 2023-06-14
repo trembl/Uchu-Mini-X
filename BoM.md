@@ -4,11 +4,11 @@
 # X1000 (Box I)
 | Nr  | Description            | Alternative            | Package                | Unit Price             |  Bulk Price            |
 | --- | ---------------------- | ---------------------- | ---------------------- | ---------------------- | ---------------------- |
-| 1.  | Chassis                | | | | |
+| 1.  | Chassis                | Design & 3D Print | | | |
 | 2.  | Switch (x2)            | ↓ | | | |
 | 2.1  | SMD Switch (x2)       | SMD Switch | | | |
 | 2.2  | Module PCB            | Design & Mill PCB Design | | | |
-| 3.  | 9V Battery Clip        | | | | |
+| 3.  | 9V Battery Clip        | [9V Battery Clip](https://akizukidenshi.com/catalog/g/gP-00452/) | | ¥20 | |
 | 4.  | Earpiece, 8Ω           | | | | |
 | 5.  | Red LED, 5mm           | [OSR5JA5E34B](https://akizukidenshi.com/catalog/g/gI-12605/) | Through-Hole | ¥10 | |
 | 6.  | Long Wires             | | | | |
