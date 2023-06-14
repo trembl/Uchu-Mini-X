@@ -5,14 +5,14 @@
 | Nr  | Description            | Alternative            | Package                | Unit Price             |  Bulk Price            |
 | --- | ---------------------- | ---------------------- | ---------------------- | ---------------------- | ---------------------- |
 | 1.  | Chassis                | Design & 3D Print | | | |
-| 2.  | Switch (x2)            | [↓](#switch-module) | | | |
+| 2.  | Switch (x2)            | [Switch Module](#switch-module) | | | |
 | 3.  | 9V Battery Clip        | [9V Battery Clip](https://akizukidenshi.com/catalog/g/gP-00452/) | | ¥20 | |
 | 4.  | Earpiece, 8Ω           | | | | |
 | 5.  | Red LED, 5mm           | [OSR5JA5E34B](https://akizukidenshi.com/catalog/g/gI-12605/) | Through-Hole | ¥10 | |
 | 6.  | Long Wires             | [Wire Set](https://akizukidenshi.com/catalog/g/gP-05160/)| | ¥400 | |
 | 7.  | Short Wires            | See 6. | | | |
 | 8.  | Pin Headers 1x4, 2.54mm x 9 x 7?? | [Pin Header 1x4](https://akizukidenshi.com/catalog/g/gC-10099/) | Through-Hole | ¥20 |  |
-| 9.  | NPN Transitor Module (x2), BC583C, BC238C, BC548C BJT 100mA 30V NPN | [BC848BLT1G](https://www.digikey.jp/en/products/detail/onsemi/BC848BLT1G/918348)| SOT23-3 | ¥21 | ¥42 |
+| 9.  | NPN Transitor Module (x2) | [NPN Transistor Module](#npn-transistor-module)  | | | |
 | 10. | Very Long Wires        | See 6. | | | |
 | 11. | MW/AM Module           | | | | |
 | 12. | Diode (Germanium), AA112, AA118, 1N60, AA113 | Replace with Schottky [BAT85S-TAP](https://www.digikey.jp/en/products/detail/vishay-general-semiconductor-diodes-division/BAT85S-TAP/3104127) | Through-Hole | ¥56 | |
@@ -34,6 +34,14 @@
 | --- | ---------------------- | ---------------------- | ---------------------- | ---------------------- | ---------------------- |
 | 2.1  | SMD Switch (x2)       | SMD Switch | | | |
 | 2.2  | Module PCB            | Design & Mill PCB Design | | | |
+
+### NPN Transistor Module
+| Nr  | Description            | Alternative            | Package                | Unit Price             |  Bulk Price            |
+| --- | ---------------------- | ---------------------- | ---------------------- | ---------------------- | ---------------------- |
+| 9.1  | NPN Transitor Module, BC583C, BC238C, BC548C BJT 100mA 30V NPN | [BC848BLT1G](https://www.digikey.jp/en/products/detail/onsemi/BC848BLT1G/918348)| SOT23-3 | ¥21 | ¥42 |
+| 9.2  | Module PCB            | Design & Mill PCB Design | | | |
+
+
 
 # X2000 (Box II)
 
