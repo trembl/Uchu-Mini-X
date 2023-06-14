@@ -11,17 +11,17 @@
 | 3.  | 9V Battery Clip        | [9V Battery Clip](https://akizukidenshi.com/catalog/g/gP-00452/) | | ¥20 | |
 | 4.  | Earpiece, 8Ω           | | | | |
 | 5.  | Red LED, 5mm           | [OSR5JA5E34B](https://akizukidenshi.com/catalog/g/gI-12605/) | Through-Hole | ¥10 | |
-| 6.  | Long Wires             | | | | |
-| 7.  | Short Wires            | | | | |
+| 6.  | Long Wires             | [Wire Set](https://akizukidenshi.com/catalog/g/gP-05160/)| | ¥400 | |
+| 7.  | Short Wires            | See 6. | | | |
 | 8.  | Pin Headers 1x4, 2.54mm x 9 x 7?? | [Pin Header 1x4](https://akizukidenshi.com/catalog/g/gC-10099/) | Through-Hole | ¥20 |  |
 | 9.  | NPN Transitor Module (x2), BC583C, BC238C, BC548C BJT 100mA 30V NPN | [BC848BLT1G](https://www.digikey.jp/en/products/detail/onsemi/BC848BLT1G/918348)| SOT23-3 | ¥21 | ¥42 |
-| 10. | Very Long Wires        | | | | |
+| 10. | Very Long Wires        | See 6. | | | |
 | 11. | MW/AM Module           | | | | |
-| 12. | Diode (Germanium), AA112, AA118, 1N60, AA113 (60V / 25mA), 30V 35mA | Schottky [BAT85S-TAP](https://www.digikey.jp/en/products/detail/vishay-general-semiconductor-diodes-division/BAT85S-TAP/3104127) | Through-Hole | ¥56 | |
+| 12. | Diode (Germanium), AA112, AA118, 1N60, AA113 | Replace with Schottky [BAT85S-TAP](https://www.digikey.jp/en/products/detail/vishay-general-semiconductor-diodes-division/BAT85S-TAP/3104127) | Through-Hole | ¥56 | |
 | 13. | Capacitor 6.8nF (x2)   | [６８００ｐＦ５０Ｖ　Ｘ７Ｒ　５ｍｍ](https://akizukidenshi.com/catalog/g/gP-08137/) | Through-Hole, Radial (x10) | ¥10 | ¥100 |
 | 14. | Capacitor 100µF, bi-polar, axial | [107BPA016M](https://www.digikey.jp/en/products/detail/cornell-dubilier-illinois-capacitor/107BPA016M/5410731) | Through-Hole, Axial | ¥198 | |
 | 15. | Condensor 10µF, bi-polar, axial | [106BPA050M](https://www.digikey.jp/en/products/detail/cornell-dubilier-illinois-capacitor/106BPA050M/5410614) | Through-Hole, Axial | ¥150 | |
-| 16. | Resistor 470Ω (x2) | [1/2W 470Ω](https://akizukidenshi.com/catalog/g/gR-07814/) | Through-Hole, Axial (x100) | ¥1 | ¥100 |
+| 16. | Resistor 470Ω (x2)     | [1/2W 470Ω](https://akizukidenshi.com/catalog/g/gR-07814/) | Through-Hole, Axial (x100) | ¥1 | ¥100 |
 | 17. | Resistor 1㏀           | [1/2W 1㏀ ](https://akizukidenshi.com/catalog/g/gR-07820/) | Through-Hole, Axial (x100) | ¥1.5 | ¥100 |
 | 18. | Resistor 5.6㏀         | [1/4W 5.6㏀ ](https://akizukidenshi.com/catalog/g/gR-25562/) | Through-Hole, Axial (x100) | ¥1 | ¥100 |
 | 19. | Resistor 15㏀          | [1/2W 15㏀ ](https://akizukidenshi.com/catalog/g/gR-07840/) | Through-Hole, Axial (x100) | ¥1 | ¥100 |
@@ -36,23 +36,23 @@
 
 | Nr  | Description            | Parts Number           | Alternative            | Package                | Unit Price             |  Bulk Price            |
 | --- | ---------------------- | ---------------------- | ---------------------- | ---------------------- | ---------------------- | ---------------------- |
-| 1.  | Decoration Plate       | | 2D Design & Lasercut | |                        |                        |
-| 2.  | Console                | | 3D Design & Print |                        |                        |                        |
-| 3.  | Screws                 | |                        |                        |                        |                        |
-| 4.  | Connecting Rods        | | 3D Print & Print |                        |                        |                        |
-| 5.  | Knob, Large            | |[Black, 15mm](https://akizukidenshi.com/catalog/g/gP-00253/), [Grey, Blue](https://akizukidenshi.com/catalog/g/gP-06091/)|                        | |                        |
+| 1.  | Decoration Plate       | 2D Design & Lasercut | | | |
+| 2.  | Console                | 3D Design & Print | | | |
+| 3.  | Screws                 | | | | |
+| 4.  | Connecting Rods        | 3D Print & Print | | | |
+| 5.  | Knob, Large            | [Black, 15mm](https://akizukidenshi.com/catalog/g/gP-00253/), [Grey, Blue](https://akizukidenshi.com/catalog/g/gP-06091/)| | | |
 | 6.  | Red LED, 5mm           | |[OSR5JA5E34B](https://akizukidenshi.com/catalog/g/gI-12605/) | Through-Hole | ¥10 | |
 | 7.  | Photo Transistor TF, 5mm, clear, BPW40| | [WP7113P3C](https://www.digikey.jp/en/products/detail/kingbright/WP7113P3C/7318904) | ¥60 | |
-| 8.  | Long Wires             |                        |                        |                        |                        | |
-| 9.  | Short Wires            |                        |                        |                        |                        | |
+| 8.  | Long Wires             | See Box I.6 | | | |
+| 9.  | Short Wires            | See Box I.6 | | | |
 | 10. | Pin Headers 1x4, 2.54mm x 9 x 7??| | [Pin Header 1x4](https://akizukidenshi.com/catalog/g/gC-10099/) | Through-Hole | ¥20 |  |
-| 11. | [AMP](https://www.rigert.com/ee-wiki/index.php/KOSMOS_Verstärker-Modul) Amplication Module | | ↓ | | | |
-| 11.1 | Capacitor 330pF, 100V |                       |                        |                        |                        | |
-| 11.2 | Capacitor 330nF, 63V |                        |                        |                        |                        | |
-| 11.3 | Resistor 10Ω        |                        |                        |                        |                        | |
-| 11.4 | IC [TBA820](https://www.digikey.jp/en/products/detail/stmicroelectronics/TBA820M/634789?s=N4IgTCBcDaICoCECCAOMAGAsiAugXyA) | [TBA820M](https://www.st.com/resource/en/datasheet/cd00000118.pdf) | [HiFi OP AMP NJM4580E](https://akizukidenshi.com/catalog/g/gI-14003/), [TBA820M](https://akizukidenshi.com/catalog/g/gI-17301/), [LM386](https://akizukidenshi.com/catalog/g/gI-14549/) | DIP-8 | ¥30 |  |
-| 11.5 | Module PCB |  | PCB Design & Mill | | | |
-| 12. | Speaker, 50mm, 8Ω | | [Dynammic Speaker 50m 8Ω, 0.4W](https://akizukidenshi.com/catalog/g/gP-09013/) | | ¥180 | |
+| 11. | [AMP](https://www.rigert.com/ee-wiki/index.php/KOSMOS_Verstärker-Modul) Amplication Module | ↓ | | | |
+| 11.1 | Capacitor 330pF, 100V | | | | |
+| 11.2 | Capacitor 330nF, 63V  | | | | |
+| 11.3 | Resistor 10Ω          | | | | |
+| 11.4 | IC [TBA820](https://www.digikey.jp/en/products/detail/stmicroelectronics/TBA820M/634789?s=N4IgTCBcDaICoCECCAOMAGAsiAugXyA), [TBA820M](https://www.st.com/resource/en/datasheet/cd00000118.pdf) | [HiFi OP AMP NJM4580E](https://akizukidenshi.com/catalog/g/gI-14003/), [TBA820M](https://akizukidenshi.com/catalog/g/gI-17301/), [LM386](https://akizukidenshi.com/catalog/g/gI-14549/) | DIP-8 | ¥30 |  |
+| 11.5 | Module PCB | PCB Design & Mill | | | |
+| 12. | Speaker, 50mm, 8Ω | [Dynammic Speaker 50m 8Ω, 0.4W](https://akizukidenshi.com/catalog/g/gP-09013/) | | ¥180 | |
 
 
 
