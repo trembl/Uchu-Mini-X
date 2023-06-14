@@ -5,7 +5,7 @@
 | Nr  | Description            | Alternative            | Package                | Unit Price             |  Bulk Price            |
 | --- | ---------------------- | ---------------------- | ---------------------- | ---------------------- | ---------------------- |
 | 1.  | Chassis                | Design & 3D Print | | | |
-| 2.  | Switch (x2)            | [↓]() | | | |
+| 2.  | Switch (x2)            | [↓](#switch-module) | | | |
 | 3.  | 9V Battery Clip        | [9V Battery Clip](https://akizukidenshi.com/catalog/g/gP-00452/) | | ¥20 | |
 | 4.  | Earpiece, 8Ω           | | | | |
 | 5.  | Red LED, 5mm           | [OSR5JA5E34B](https://akizukidenshi.com/catalog/g/gI-12605/) | Through-Hole | ¥10 | |
@@ -29,9 +29,7 @@
 | 23. | Resistor 680㏀         | [1/4W 680㏀ ](https://akizukidenshi.com/catalog/g/gR-25684/) | Through-Hole, Axial (x100) | ¥1 | ¥100 |
 
 
-# Switch Module
-| Nr  | Description            | Alternative            | Package                | Unit Price             |  Bulk Price            |
-| --- | ---------------------- | ---------------------- | ---------------------- | ---------------------- | ---------------------- |
+### Switch Module
 | 2.1  | SMD Switch (x2)       | SMD Switch | | | |
 | 2.2  | Module PCB            | Design & Mill PCB Design | | | |
 
