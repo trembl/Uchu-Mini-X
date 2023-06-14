@@ -30,6 +30,8 @@
 
 
 ### Switch Module
+| Nr  | Description            | Alternative            | Package                | Unit Price             |  Bulk Price            |
+| --- | ---------------------- | ---------------------- | ---------------------- | ---------------------- | ---------------------- |
 | 2.1  | SMD Switch (x2)       | SMD Switch | | | |
 | 2.2  | Module PCB            | Design & Mill PCB Design | | | |
 
