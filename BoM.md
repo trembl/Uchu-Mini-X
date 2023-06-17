@@ -5,18 +5,18 @@
 | Nr  | Description            | Alternative            | Package                | Unit Price             |  Bulk Price            |
 | --- | ---------------------- | ---------------------- | ---------------------- | ---------------------- | ---------------------- |
 | 1.  | Chassis                | TODO: 3D Design | | | |
-| 2.  | Switch (x2)            | [Switch Module](#switch-module) | | | |
+| 2.  | Switch (x2)            | [↓](#switch-module) | | | |
 | 3.  | 9V Battery Clip        | [9V Battery Clip](https://akizukidenshi.com/catalog/g/gP-00452/) | | ¥20 | |
 | 4.  | Earpiece, 8Ω           | TODO: Find | | | |
 | 5.  | Red LED, 5mm           | [OSR5JA5E34B](https://akizukidenshi.com/catalog/g/gI-12605/) | Through-Hole | ¥10 | |
 | 6.  | Long Wires             | [Wire Set](https://akizukidenshi.com/catalog/g/gP-05160/)| | ¥400 | |
 | 7.  | Short Wires            | See 6. | | | |
 | 8.  | Pin Headers 1x4, 2.54mm x 9 x 7?? | [Pin Header 1x4](https://akizukidenshi.com/catalog/g/gC-10099/) | Through-Hole | ¥20 |  |
-| 9.  | NPN Transitor Module (x2) | [NPN Transistor Module](#npn-transistor-module)  | | | |
+| 9.  | NPN Transitor Module (x2) | [↓](#npn-transistor-module) | | | |
 | 10. | Very Long Wires        | See 6. | | | |
-| 11. | MW/AM Module           | TODO: Find | | | |
+| 11. | MW/AM Module           | TODO: Find  [↓](#mw-am-module) | | | |
 | 12. | Diode (Germanium), AA112, AA118, 1N60, AA113 | Replace with Schottky [BAT85S-TAP](https://www.digikey.jp/en/products/detail/vishay-general-semiconductor-diodes-division/BAT85S-TAP/3104127) | Through-Hole | ¥56 | |
-| 13. | Capacitor 6.8nF (x2)   | [６８００ｐＦ５０Ｖ　Ｘ７Ｒ　５ｍｍ](https://akizukidenshi.com/catalog/g/gP-08137/) | Through-Hole, Radial (x10) | ¥10 | ¥100 |
+| 13. | Capacitor 6.8nF (x2)   | [6800pF50V X7R 5mm](https://akizukidenshi.com/catalog/g/gP-08137/) | Through-Hole, Radial (x10) | ¥10 | ¥100 |
 | 14. | Capacitor 100µF, bi-polar, axial | [107BPA016M](https://www.digikey.jp/en/products/detail/cornell-dubilier-illinois-capacitor/107BPA016M/5410731) | Through-Hole, Axial | ¥198 | |
 | 15. | Condensor 10µF, bi-polar, axial | [106BPA050M](https://www.digikey.jp/en/products/detail/cornell-dubilier-illinois-capacitor/106BPA050M/5410614) | Through-Hole, Axial | ¥150 | |
 | 16. | Resistor 470Ω (x2)     | [1/2W 470Ω](https://akizukidenshi.com/catalog/g/gR-07814/) | Through-Hole, Axial (x100) | ¥1 | ¥100 |
@@ -28,7 +28,6 @@
 | 22. | Resistor 220㏀         | [1/2W 220㏀ ](https://akizukidenshi.com/catalog/g/gR-07858/) | Through-Hole, Axial (x100) | ¥1 | ¥100 |
 | 23. | Resistor 680㏀         | [1/4W 680㏀ ](https://akizukidenshi.com/catalog/g/gR-25684/) | Through-Hole, Axial (x100) | ¥1 | ¥100 |
 
-
 ### Switch Module
 | Nr  | Description            | Alternative            | Package                | Unit Price             |  Bulk Price            |
 | --- | ---------------------- | ---------------------- | ---------------------- | ---------------------- | ---------------------- |
@@ -36,6 +35,12 @@
 | 2.2  | Module PCB            | TODO: Design & Mill PCB Design | | | |
 
 ### NPN Transistor Module
+| Nr  | Description            | Alternative            | Package                | Unit Price             |  Bulk Price            |
+| --- | ---------------------- | ---------------------- | ---------------------- | ---------------------- | ---------------------- |
+| 9.1  | NPN Transitor Module, BC583C, BC238C, BC548C BJT 100mA 30V NPN | [BC848BLT1G](https://www.digikey.jp/en/products/detail/onsemi/BC848BLT1G/918348)| SOT23-3 | ¥21 | ¥42 |
+| 9.2  | Module PCB            | TODO: Design & Mill PCB Design | | | |
+
+### MW/AM Module
 | Nr  | Description            | Alternative            | Package                | Unit Price             |  Bulk Price            |
 | --- | ---------------------- | ---------------------- | ---------------------- | ---------------------- | ---------------------- |
 | 9.1  | NPN Transitor Module, BC583C, BC238C, BC548C BJT 100mA 30V NPN | [BC848BLT1G](https://www.digikey.jp/en/products/detail/onsemi/BC848BLT1G/918348)| SOT23-3 | ¥21 | ¥42 |
