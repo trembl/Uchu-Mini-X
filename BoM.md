@@ -14,11 +14,11 @@
 | 8.  | Pin Headers 1x4, 2.54mm x 9 x 7?? | [Pin Header 1x4](https://akizukidenshi.com/catalog/g/gC-10099/) | Through-Hole | ¥20 |  |
 | 9.  | NPN Transitor Module (x2) | [↓](#npn-transistor-module) | | | |
 | 10. | Very Long Wires        | See 6. | | | |
-| 11. | MW/AM Module           | TODO: Find  [↓](#mw-am-module) | | | |
+| 11. | [MW/AM Module](https://www.rigert.com/ee-wiki/index.php?title=KOSMOS_Mittelwellen-Modul) | [↓](#mw-am-module) | | | |
 | 12. | Diode (Germanium), AA112, AA118, 1N60, AA113 | Replace with Schottky [BAT85S-TAP](https://www.digikey.jp/en/products/detail/vishay-general-semiconductor-diodes-division/BAT85S-TAP/3104127) | Through-Hole | ¥56 | |
 | 13. | Capacitor 6.8nF (x2)   | [6800pF50V X7R 5mm](https://akizukidenshi.com/catalog/g/gP-08137/) | Through-Hole, Radial (x10) | ¥10 | ¥100 |
 | 14. | Capacitor 100µF, bi-polar, axial | [107BPA016M](https://www.digikey.jp/en/products/detail/cornell-dubilier-illinois-capacitor/107BPA016M/5410731) | Through-Hole, Axial | ¥198 | |
-| 15. | Condensor 10µF, bi-polar, axial | [106BPA050M](https://www.digikey.jp/en/products/detail/cornell-dubilier-illinois-capacitor/106BPA050M/5410614) | Through-Hole, Axial | ¥150 | |
+| 15. | Capacitor 10µF, bi-polar, axial | [106BPA050M](https://www.digikey.jp/en/products/detail/cornell-dubilier-illinois-capacitor/106BPA050M/5410614) | Through-Hole, Axial | ¥150 | |
 | 16. | Resistor 470Ω (x2)     | [1/2W 470Ω](https://akizukidenshi.com/catalog/g/gR-07814/) | Through-Hole, Axial (x100) | ¥1 | ¥100 |
 | 17. | Resistor 1㏀           | [1/2W 1㏀ ](https://akizukidenshi.com/catalog/g/gR-07820/) | Through-Hole, Axial (x100) | ¥1.5 | ¥100 |
 | 18. | Resistor 5.6㏀         | [1/4W 5.6㏀ ](https://akizukidenshi.com/catalog/g/gR-25562/) | Through-Hole, Axial (x100) | ¥1 | ¥100 |
@@ -43,10 +43,16 @@
 ### MW/AM Module
 | Nr  | Description            | Alternative            | Package                | Unit Price             |  Bulk Price            |
 | --- | ---------------------- | ---------------------- | ---------------------- | ---------------------- | ---------------------- |
-| 9.1  | NPN Transitor Module, BC583C, BC238C, BC548C BJT 100mA 30V NPN | [BC848BLT1G](https://www.digikey.jp/en/products/detail/onsemi/BC848BLT1G/918348)| SOT23-3 | ¥21 | ¥42 |
-| 9.2  | Module PCB            | TODO: Design & Mill PCB Design | | | |
+| 11.1 | Toko RCL XYRS 18194 N5 86152 | | |  |  |
+| 11.2  | Capacitor 15pF | [15pF50V](https://akizukidenshi.com/catalog/g/gP-13312/) | 1608 | 2.5¥ | 40 for 100¥ |
+| 11.2A  | Capacitor 15pF | [15pF250V](https://www.sengoku.co.jp/mod/sgk_cart/detail.php?code=EEHD-5S3X#) | 3216 | 10¥ | 50 for 500¥ |
+| 11.3  | Capacitor 47pF | [47pF50V](https://akizukidenshi.com/catalog/g/gP-17481/)| 1608 | 2.5¥ | 40 for 100¥ |
+| 11.3A  | Capacitor 47pF | [47pF250V](https://www.sengoku.co.jp/mod/sgk_cart/detail.php?code=EEHD-5PLJ) | 3216 | 10.5¥ | 50 for 525¥ |
+| 11.4  | Capacitor 100pF | [100pF50V](https://akizukidenshi.com/catalog/g/gP-16524/) | Through-Hole | 6¥ | 10 for 60¥ |
+| 11.4A  | Capacitor 100pF | [100pF50V](https://www.sengoku.co.jp/mod/sgk_cart/detail.php?code=EEHD-58F3) | 3216 | 35.8¥ | 5 for 179¥ |
 
-
+Notes:
+- Find 3216 SMDs instead of 1608
 
 # X2000 (Box II)
 
