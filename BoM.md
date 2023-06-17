@@ -43,7 +43,7 @@
 ### MW/AM Module
 | Nr  | Description            | Alternative            | Package                | Unit Price             |  Bulk Price            |
 | --- | ---------------------- | ---------------------- | ---------------------- | ---------------------- | ---------------------- |
-| 11.1 | Toko RCL XYRS 18194 N5 86152 | | |  |  |
+| 11.1 | Toko RCL XYRS 18194 N5 86152 | [Murata](https://www.digikey.jp/en/products/detail/murata-electronics/A1313B-0029GGH-P3/13244738) | 6-SMD | ¥226 |  |
 | 11.2  | Capacitor 15pF | [15pF50V](https://akizukidenshi.com/catalog/g/gP-13312/) | 1608 | 2.5¥ | 40 for 100¥ |
 | 11.2A  | Capacitor 15pF | [15pF250V](https://www.sengoku.co.jp/mod/sgk_cart/detail.php?code=EEHD-5S3X#) | 3216 | 10¥ | 50 for 500¥ |
 | 11.3  | Capacitor 47pF | [47pF50V](https://akizukidenshi.com/catalog/g/gP-17481/)| 1608 | 2.5¥ | 40 for 100¥ |
@@ -53,6 +53,8 @@
 
 Notes:
 - Find 3216 SMDs instead of 1608
+- https://www.eevblog.com/forum/projects/can-someone-identify-this-toko-rcl-component/
+- https://www.boehri.de/elektronik/AM_Testsender_Kosmos_electronic_X1000.pdf
 
 # X2000 (Box II)
 
@@ -135,3 +137,7 @@ Notes:
 - https://www.eevblog.com/forum/beginners/how-to-know-if-my-logic-ic-is-fried/
 - https://www.experimentierkasten-board.de/viewtopic.php?p=2389
 - https://www.electronics-tutorials.ws
+- https://www.eevblog.com/forum/projects/can-someone-identify-this-toko-rcl-component/
+- https://www.elektronik-labor.de/Lernpakete/Radiobasteln.pdf
+- https://forum.electronicwerkstatt.de/phpBB/Elektrische_Probleme/verstaerkermodul_kosmos-t10628f6_bs0.html
+- https://www.experimentierkasten-board.de/viewtopic.php?p=3396
