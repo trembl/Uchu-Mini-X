@@ -55,6 +55,7 @@ Notes:
 - Find 3216 SMDs instead of 1608
 - https://www.eevblog.com/forum/projects/can-someone-identify-this-toko-rcl-component/
 - https://www.boehri.de/elektronik/AM_Testsender_Kosmos_electronic_X1000.pdf
+- https://www.murata.com/en-global/products/inductor/variable
 
 # X2000 (Box II)
 
