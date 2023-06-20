@@ -2,7 +2,7 @@
 
 The 宇宙 (うちゅう, uchū) "Kosmos" Mini X4000 is a re-imagination of a popular Kosmos Electronics construction kits ("[Experimentierkasten](https://de.wikipedia.org/wiki/Experimentierkasten)") from th 1980ies.
 
-![images/X4000.jpg]
+![](images/X4000.jpg)
 
 I still have the instruction books for the X1000-X2000 and X3000-X4000 sets
 
