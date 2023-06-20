@@ -59,8 +59,8 @@ Notes:
 
 # X2000 (Box II)
 
-| Nr  | Description            | Parts Number           | Alternative            | Package                | Unit Price             |  Bulk Price            |
-| --- | ---------------------- | ---------------------- | ---------------------- | ---------------------- | ---------------------- | ---------------------- |
+| Nr  | Description            | Alternative            | Package                | Unit Price             |  Bulk Price            |
+| --- | ---------------------- | ---------------------- | ---------------------- | ---------------------- | ---------------------- |
 | 1.  | Decoration Plate       | TODO: 2D Design & Lasercut | | | |
 | 2.  | Console                | TODO: 3D Design | | | |
 | 3.  | Screws                 | | | | |
