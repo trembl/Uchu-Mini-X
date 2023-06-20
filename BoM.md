@@ -1,7 +1,5 @@
-# Bill of Materials
+# Bill of Materials X1000 (Box I)
 
-
-# X1000 (Box I)
 | Nr  | Description            | Alternative            | Package                | Unit Price             |  Bulk Price            |
 | --- | ---------------------- | ---------------------- | ---------------------- | ---------------------- | ---------------------- |
 | 1.  | Chassis                | TODO: 3D Design | | | |
