@@ -1,4 +1,4 @@
-# 宇宙 Kosmos Mini X4000
+# 宇宙 Uchi Mini X4000
 
 The 宇宙 (うちゅう, uchū) "Kosmos" Mini X4000 is a re-imagination of a popular Kosmos Electronics construction kits ("[Experimentierkasten](https://de.wikipedia.org/wiki/Experimentierkasten)") from th 1980ies.
 
@@ -8,6 +8,7 @@ With this re-making of the complete set, I'll finally be able to make **all** th
 
 ![](images/X4000.jpg)
 
+The Kosmos X-Series was followed by the XN-Series
 
 ## Todo
 - [X] Identify the parts and create a complete [BoM (Bill of Materials)](BoM.md)
