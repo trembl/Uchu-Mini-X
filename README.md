@@ -8,12 +8,12 @@ With this re-making of the complete set, I'll finally be able to make **all** th
 
 ![](images/X4000.jpg)
 
-The Kosmos X-Series was followed by the XN-Series
+The Kosmos X-Series was followed by the XN-Series, which introduces a different chassis and some addtional parts (Variable Capacitor, 555 Timer)
 
 ## Todo
 - [X] Identify the parts and create a complete [BoM (Bill of Materials)](BoM.md)
 - [ ] Find where to source the parts - and how much they cost
-- [ ] PCD Design the Main Board
+- [ ] PCB Design the Main Board
 - [ ] PCB Design the small carrier boards for IC, AMPs, etc
 - [ ] Mill the Boards
 - [ ] 3D Model the Console ("Schaltpult") & Enclosures
