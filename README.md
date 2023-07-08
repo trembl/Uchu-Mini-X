@@ -12,8 +12,9 @@ The Kosmos X-Series was followed by the XN-Series, which introduces a different 
 
 ## Todo
 - [X] Identify the parts and create a complete [BoM (Bill of Materials)](BoM.md)
-- [ ] Find where to source the parts - and how much they cost
-- [ ] PCB Design the Main Board
+- [X] Find where to source the parts - and how much they cost
+- [X] PCB Design the Main Board
+- [X] 3D Model the Main Board Carrier
 - [ ] PCB Design the small carrier boards for IC, AMPs, etc
 - [ ] Mill the Boards
 - [ ] 3D Model the Console ("Schaltpult") & Enclosures
